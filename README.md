@@ -3,7 +3,7 @@
 ## Description
 This repository contains the upgraded yBank web and api projects for the Test Assignment
 
-The following key considerations where taken into account when working on this Test Assignment:
+The following key considerations where taken into account when working on this upgraded Test Assignment:
 
 * **Security** - Prevent app from being hacked.
 * **Best Practices** - Applied SOLID principles, re-wrote and refactored code to ensure it is cleaner and easier to maintain.
