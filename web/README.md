@@ -17,6 +17,6 @@ $ yarn start / npm run start
 $ yarn generate / npm run generate
 ```
 
-## Nuxt.js and Nuxt.js Typescript Documentation
+## Documentation
 [Nuxt.js docs](https://nuxtjs.org) and [Nuxt.js Typescript docs](https://typescript.nuxtjs.org)
 
