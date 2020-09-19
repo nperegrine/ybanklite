@@ -1,4 +1,11 @@
-> yBankLite improved Vue front-end with type-safe Vuex implementation and several other improvements.
+> yBankLite improved Vue front-end with type-safe Vuex implementation and many other improvements.
+
+## Demo
+An online demo of this yBankLite PWA can be found at:
+
+* https://ybank.herokuapp.com
+
+Feel free to check out and play around the online demo as much as you want to.
 
 ## Build Setup
 
