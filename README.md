@@ -12,7 +12,7 @@ The following key considerations where taken into account when working on this i
 * **Logic** - Prevented overspending of account balance
 
 ## Appreciation
-I am grateful to have had the opportunity to work on the test assignment. When coding this improved version, I attempted to implement the SOLID design principles and a few other Software Design best practices especially considering the fact that it is a banking platform. Thanks! 
+I am grateful to have had the opportunity to work on the test assignment. When coding this improved version, I attempted to implement the SOLID design principles and a few other Software Design best practices taking into deep consideration the fact that I was working on a banking platform.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
