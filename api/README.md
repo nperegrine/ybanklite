@@ -1,9 +1,11 @@
 > yBankLite improved Laravel Backend API
 
 ## Demo
-* yBankLite back-end API:  https://ybankapi.herokuapp.com 
+An online demo of this API can be found at:
 
-Feel free to check out and play around with the API as much as you want to in Postman or other API Development tools.
+* https://ybankapi.herokuapp.com 
+
+Feel free to check out and play around with the demo API as much as you want to in Postman or another API Development tool of your choice.
 
 ## Installation
 1.) Install all composer dependencies
