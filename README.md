@@ -4,7 +4,7 @@
 * yBankLite front-end PWA: https://ybank.herokuapp.com
 * yBankLite back-end API:  https://ybankapi.herokuapp.com 
 
-Feel free to check out and play around the online demo as much as you need to.
+Feel free to check out and play around the online demo as much as you want to.
 
 ## Description
 This repository contains the improved yBank web and api code for the Test Assignment
