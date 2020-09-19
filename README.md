@@ -1,7 +1,7 @@
 > yBankLite 
 
 ## Description
-This repository contains the improved yBank web and api projects for the Test Assignment
+This repository contains the improved yBank web and api code for the Test Assignment
 
 The following key considerations where taken into account when working on this improved Test Assignment:
 
