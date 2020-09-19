@@ -1,8 +1,8 @@
 > yBankLite 
 
-## Online Demo
-yBankLite front-end PWA: https://ybank.herokuapp.com
-yBankLite back-end API:  https://ybankapi.herokuapp.com 
+## Demo
+* yBankLite front-end PWA: https://ybank.herokuapp.com
+* yBankLite back-end API:  https://ybankapi.herokuapp.com 
 
 Feel free to check out and play around the online demo as much as you need to.
 
